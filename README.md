@@ -27,7 +27,7 @@ Repository Structure
 
 
 
-See the folder README for details in 3_Projects 
+See in 3_Projects/README.md
 
 Tools and Libraries
 Python (NumPy, Pandas, etc.)
