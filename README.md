@@ -27,7 +27,8 @@ Repository Structure
 
 
 
-See the folder README for details: 3_Projects/README.md
+See the folder README for details in 3_Projects 
+
 Tools and Libraries
 Python (NumPy, Pandas, etc.)
 Matplotlib
